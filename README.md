@@ -1,4 +1,4 @@
-# Bonjour 👋 je suis Cheikh Mamadou Diagne
+Cheikh Mamadou Diagne
 
 DBA Senior avec 18 ans d’expérience (Oracle 11g/19c/Xi, PostgreSQL, Linux, Cloud ).
 
